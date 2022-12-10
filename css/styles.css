@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(200, 228, 238);
+}
+hr{
+    border-color: rgb(103, 174, 212);
+    border-style: dotted none none;
+    border-width: 3px;
+    width: 5%;
+}
+h1{
+    color: #12838b;
+    font-family:papyrus;
+}
+h3{
+    color: #618588;
+}
+img{
+    border-radius: 5%;
+    border: 2px solid;
+    border-color: rgb(76, 113, 113);
+}
